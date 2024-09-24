@@ -4,7 +4,7 @@ title: "About My  fisrst Blog"
 author: "detem"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: Image_1725271900982.jpg
 ---
 HELLO WORLD ！！！
 能来到这个网站看到我的第一篇Blog，怎么说呢？这既是我们之间的运气，又是我的荣幸hhh。
