@@ -11,14 +11,14 @@ image: arctic-2.jpg
 # The dream of developing blogs began.
 
 第一次知道这个Blog这个东西还是在B站，最开始看到的学习视频就是CodeSheep这位up主
-image dream 
+![输入图片说明](https://s21.ax1x.com/2024/09/24/pAQtFT1.png)
 我觉得他的视频很适合新手小白，因为讲得通俗易懂，而且在逐步给你在每一个环节敲代码
 但是我又为什么没有跟着他呢？
 是因为在按照他操作过程中我出现了很多疑惑和困难都不能及时解决导致我最后也没有按照他那个方法操作。
 
 # Develop a blog and gradually understand
 在后来我开始了解到很多人用Hexo来搭建初始的Blog
-image understand
+![输入图片说明](https://s21.ax1x.com/2024/09/24/pAQtAFx.png)
 但是奈何教程太多，而且每一个我都不断在卸载和安装过程中徘徊
 在这个过程中我还了解到了阿里云服务器和域名
 也买了属于自己的域名detem.top
@@ -43,6 +43,6 @@ image understand
 然后套用别人的博客模版，然后自己再不断增改东西即可
 
 于是我又换了一个更好看的模版就是现在在码的这个模版
-image more 
+![输入图片说明](https://s21.ax1x.com/2024/09/24/pAQtEY6.png)
 加油塑造更好的自己
 ![输入图片说明](https://s21.ax1x.com/2024/09/24/pAQt9OJ.png)
