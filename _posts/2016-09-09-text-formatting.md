@@ -3,7 +3,7 @@
 标题:“关于英国人”
 作者:“detem”
 类别:样本
-标签:[样品]
+tags: [sample]
 图片: arctic-1.jpg
 ---
 
