@@ -33,7 +33,7 @@ image understand
 第二天我无意间看到一个十分钟开发出自己的博客
 我怀着试一试的想法
 结果真的弄出来了但是开心的心情难以用言语表达
-[(https://s21.ax1x.com/2024/09/24/pAQYvWT.png)]
+
 
 ![输入图片说明](https://s21.ax1x.com/2024/09/24/pAQYvWT.png)
 之后就是想着怎么不断优化
@@ -45,3 +45,4 @@ image understand
 于是我又换了一个更好看的模版就是现在在码的这个模版
 image more 
 加油塑造更好的自己
+![输入图片说明](https://s21.ax1x.com/2024/09/24/pAQt9OJ.png)
