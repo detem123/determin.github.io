@@ -1,8 +1,8 @@
 ---
-布局:帖子
-标题:“关于英国人”
-作者:“detem”
-类别:样本
+layout: post
+title: "My CET-6 rocord"
+author: "detem"
+categories: facts
 tags: [sample]
 图片: arctic-1.jpg
 ---
