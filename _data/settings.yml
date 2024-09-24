@@ -1,35 +1,35 @@
-# Change 'comments' to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
+#将Disqus注释的“注释”更改为true
+迪斯克斯:
+评论: 错误的
+disqus_shortname: 'detem'
 
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+#如果您没有使用Google Analytics，请将“google-ID”更改为空字符串
+谷歌标识: UA-112060364-2 '
 
-menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+菜单:
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
-- {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
+- {名字: '学习资源',全球资源定位器(Uniform Resource Locator): '资源'}
+- {名字: '示例帖子',全球资源定位器(Uniform Resource Locator): '示例-帖子'}
+- {名字: '文档',全球资源定位器(Uniform Resource Locator): '文档'}
+- {名字: 关于,全球资源定位器(Uniform Resource Locator): 关于}
+- {名字: '联系人',全球资源定位器(Uniform Resource Locator): '联系人'}
 
-# Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+#可用的社交图标由字体Awesome支持，因此您可以使用他们提供的任何图标
+社会的:
+- {图标: “zhihu”,环:    ' https://www.zhihu.com/people/li-qi-ming-39-49 '}
+- {图标: “douyin”,环:   ' https://www.douyin.com/user/self?from_tab_name=main%29 '}
+- {图标: ' instagram ',环:  ' https://insta gram . com/paululele '}
+- {图标: '信封',环:   mailto:hello@paulle.ca '}
+- {图标: ' rss-square ',环: feed.xml '}
+# - {icon: 'rss-square '，link: 'rss-feed.xml'}
 
-sharing_button_prompt: 'Feel free to share!'
+#自定义网站文本
+页码:
+下一页: '更新'
+上一页_页面: “更老”
 
-related_posts: 'You may also enjoy...'
+分享_按钮_提示: 请随意分享！
 
-post_date_prefix: 'Written on'
+相关_帖子: 你也可以享受...
+
+邮政日期前缀: 写于'
