@@ -4,7 +4,7 @@ title: "My CET-6 rocord"
 author: "detem"
 categories: facts
 tags: [sample]
-图片: arctic-1.jpg
+图片: 新建文件夹Image_1724421963155.jpg
 ---
 
 
