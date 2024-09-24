@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "University competition"
+author: "detem"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg
