@@ -6,7 +6,7 @@ categories: resources
 tags: [documentation,sample]
 image: arctic-2.jpg
 ---
-仅以此篇记录我的开发博客记录
+仅以此篇记录我的开发博客记录 
 
 # The dream of developing blogs began.
 
