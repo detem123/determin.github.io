@@ -8,11 +8,14 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+url: https://detem123.github.io/determin.github.io/sample-posts #the base hostname & protocol for your site e.g. "https://s21.ax1x.com/2024/09/22/pAMbEod.jpg"
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "determin'individual Blog "
 description:	       "a poor student"
 author:              "L tian ming"
+avatar:            "Image 1725271900982.jpg"
+
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
