@@ -4,6 +4,8 @@ title: About MY first Blog
 permalink: /about
 ---
 
+
+
 HELLO WORLD ！！！
 能来到这个网站看到我的第一篇Blog，怎么说呢？这既是我们之间的运气，又是我的荣幸hhh。
 回想这两天被这个Blog已经折磨得不成人形了，应该是在前天又或许是大前天我看到了别人的博客。
