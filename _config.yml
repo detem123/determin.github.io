@@ -4,7 +4,7 @@
 paginate:            5
 
 # Build settings
-markdown:            kramdown
+markdown:           China
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
